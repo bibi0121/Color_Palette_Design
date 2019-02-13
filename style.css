@@ -1,0 +1,11 @@
+.color_box {
+  border: 2px dotted black;
+  width: 280px;
+  height: 280px;
+}
+
+.color_wrapper {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
